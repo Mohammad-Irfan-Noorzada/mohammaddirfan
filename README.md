@@ -1,5 +1,5 @@
-- Hi, I’m @mohammaddirfan
-- I’m currently learning coding in Scrimba
+- Hi, I’m @Mohammad Irfan Noorzada
+- I’m currently learning coding in W3Schools
 - Pronouns: he/him
 - Fun fact: I love cats
 
