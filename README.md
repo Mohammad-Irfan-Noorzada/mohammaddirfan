@@ -1,4 +1,4 @@
-- Hi, I’m @Mohammad Irfan Noorzada
+- Hi, I’m @MohammadIrfanNoorzada
 - I’m currently learning coding in W3Schools
 - Pronouns: he/him
 - Fun fact: I love cats
